@@ -1,16 +1,9 @@
-# Quivr - Your Second Brain, Empowered by Generative AI
+# Advanced ChatBot - Your Second Brain, Empowered by Generative AI
 
 <div align="center">
     <img src="./logo.png" alt="Quivr-logo" width="31%"  style="border-radius: 50%; padding-bottom: 20px"/>
 </div>
 
-[![Discord Follow](https://dcbadge.vercel.app/api/server/HUpRgp2HG8?style=flat)](https://discord.gg/HUpRgp2HG8)
-[![GitHub Repo stars](https://img.shields.io/github/stars/quivrhq/quivr?style=social)](https://github.com/quivrhq/quivr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/StanGirard?style=social)](https://twitter.com/_StanGirard)
-
-Quivr, your second brain, utilizes the power of GenerativeAI to be your personal assistant ! Think of it as Obsidian, but turbocharged with AI capabilities.
-
-[Roadmap here](https://docs.quivr.app/docs/roadmap)
 
 ## Key Features 🎯
 
@@ -28,7 +21,7 @@ https://github.com/quivrhq/quivr/assets/19614572/a6463b73-76c7-4bc0-978d-70562dc
 
 ## Getting Started 🚀
 
-You can deploy Quivr to Porter Cloud with one-click:
+You can deploy Chatbot to Porter Cloud with one-click:
 
 <a href="https://cloud.porter.run/addons/new?addon_name=quivr" target="_blank">
   <img src="https://mintlify.s3-us-west-1.amazonaws.com/porter/images/deploying-applications/deploy-to-porter.svg" alt="Deploy to Porter" style="width: 150px;">
